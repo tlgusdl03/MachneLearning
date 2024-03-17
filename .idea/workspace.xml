@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78d30c99-c567-4981-8dcb-eb6ed9e1d4d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="78d30c99-c567-4981-8dcb-eb6ed9e1d4d0" name="Changes" comment="feat: 초기 설정 및 간단한 Linear Regression 체험" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +47,19 @@
       <option name="presentableId" value="Default" />
       <updated>1710658965243</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: 초기 설정 및 간단한 Linear Regression 체험">
+      <option name="closed" value="true" />
+      <created>1710662099793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710662099793</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: 초기 설정 및 간단한 Linear Regression 체험" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 초기 설정 및 간단한 Linear Regression 체험" />
   </component>
 </project>
